@@ -1,2 +1,3 @@
-Hello Git Day 1 Class
+Hello greens Git Day 1 Class
 Trainer Mithran
+Adding a third line
